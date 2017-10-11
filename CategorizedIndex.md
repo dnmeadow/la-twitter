@@ -252,6 +252,15 @@ Name | Twitter | Notes |
 -----| --------| ------|
 LA Scanner | [@LAScanner](https://twitter.com/lascanner) | Unofficial LAPD scanner tweets, with occasional commentary. |
 
+## LA Metro Board
+
+Name | Twitter | Notes |
+-----| --------|-------|
+Eric Garcetti | [@MayorOfLA](https://twitter.com/MayorOfLA) | |
+Sheila Kuehl | [@SheilaKuehl] (https://twitter.com/SheilaKuehl) | Los Angeles County Supervisor, 3rd District |
+James Butts | [@MayorButts] (https://twitter.com/MayorButts) | Mayor of Inglewood |
+Mike Bonin | [@MikeBoninLA] (https://twitter.com/MikeBoninLA | Councilmember representing West Side of LA |
+
 
 ## To Categorize
 
